@@ -18,6 +18,8 @@ import matplotlib.pyplot as plt
 ```
 
 
+## Training vs validation loss
+![image](https://github.com/Prayag-Chawla/Image-Segmentation/assets/92213377/d9bf6b73-8935-43cc-bcda-e4fbe3104891)
 
 
 
@@ -25,6 +27,7 @@ import matplotlib.pyplot as plt
 ## Accuracy
 
 
+![image](https://github.com/Prayag-Chawla/Image-Segmentation/assets/92213377/98e5a79b-f4ca-40db-8b3c-a38411413c9d)
 
 
 
